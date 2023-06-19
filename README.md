@@ -1,8 +1,4 @@
-- Web developer💻.
-- I'm almost always programming.
-- I love learning new technologies when I have time. I usually don't.
-- Always in a love-hate relationship with my codes 😪
-- When I'm not programming, I'm reading or binging on anime
-- Avid hot chocolate drinker ☕
-- An otherwise boring person
-- Fin
+- Avid web developer with over 7 years of experience.
+- Fullstack web developer, heavy BE.
+- Stack: JavaScript, TypeScript, jQuery, React.js, PHP, Node.js (intermediate), MySQL.
+- A connoisseur of beautiful user interfaces.
